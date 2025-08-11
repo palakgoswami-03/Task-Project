@@ -20,8 +20,10 @@ xhr.onreadystatechange = function () {
   console.log(xhr.readyState); // logs state changes: 1, 2, 3, then 4
 
   if (xhr.readyState === 4) {
-    console.log('Status:', xhr.status); // 200 means success
-    console.log('Response:', this.responseText);
+    const data = JSON.parse(this.responseText)
+    console.log(typeof data); // 200 means success
+    console.log(data.followers);
+
   }
 };
 
