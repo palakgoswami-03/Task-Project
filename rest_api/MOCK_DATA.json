@@ -7993,10 +7993,42 @@
     },
     {
         "id": 1000,
-        "first_name": "Maurine",
+        "first_nam+e": "Maurine",
         "last_name": "MacHarg",
         "email": "mmachargrr@people.com.cn",
         "gender": "Female",
         "job_title": "Chemical Engineer"
+    },
+    {
+        "first_name": "Palak",
+        "last_name": "Goswami",
+        "email": "pg@gmail.com",
+        "gender": "female",
+        "job_title": "developer",
+        "id": 1001
+    },
+    {
+        "first_name": "hir ",
+        "last_name": "chauhan",
+        "email": "hc@gmail.com",
+        "gender": "female",
+        "job_title": "app developer",
+        "id": 1002
+    },
+    {
+        "first_name": "hir ",
+        "last_name": "chauhan",
+        "email": "hc@gmail.com",
+        "gender": "female",
+        "job_title": "app developer",
+        "id": 1003
+    },
+    {
+        "first_name": "devansh",
+        "last_name": "goswami",
+        "email": "hg@gmail.com",
+        "gender": "male",
+        "job_title": "student",
+        "id": 1004
     }
 ]
