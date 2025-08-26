@@ -1,0 +1,5 @@
+Bob, 22, Computer Engineering
+Charlie, 20, Physics
+David, 23, Chemistry
+Emma, 19, Biology
+Frank, 24, History
